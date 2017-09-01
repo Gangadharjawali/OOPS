@@ -1,0 +1,1 @@
+{"Wheat":[{"price":36,"name":"cc","weight":10},{"price":26,"name":"dd","weight":12},{"price":3,"name":"ee","weight":5}],"Pulses":[{"price":100,"name":"k","weight":25}],"Rice":[{"price":25,"name":"aa","weight":10},{"price":10,"name":"bb","weight":15}]}
